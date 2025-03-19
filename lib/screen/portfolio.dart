@@ -69,27 +69,27 @@ class PortfolioScreen extends StatelessWidget {
                   ),
                 ),
                 const Text(
-                  'Flutter',
+                  'Network',
                   style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),
                 ),
                 const Text(
-                  'Developer',
+                  'Engineer',
                   style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold),
                 ),
                 const Text(
-                  'I\'m an aspiring Flutter developer,',
+                  'I\'m a Network Enginner,',
                   style: TextStyle(fontSize: 20),
                 ),
                 const Text(
-                  'learning to build cross-platform apps.',
+                  'Learning to built network infrastructure.',
                   style: TextStyle(fontSize: 20),
                 ),
                 const Text(
-                  'I’m improving my UI design',
+                  'I’m improving my Network ',
                   style: TextStyle(fontSize: 20),
                 ),
                 const Text(
-                  'and state management skills.',
+                  'and Security Skill.',
                   style: TextStyle(fontSize: 20),
                 ),
                 const SizedBox(height: 20),
